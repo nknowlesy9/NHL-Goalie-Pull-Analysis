@@ -144,4 +144,4 @@ seaborn
 
 ## Author
 
-Nick Knowles — connect with me on [LinkedIn](www.linkedin.com/in/nicholas-knowles)
+Nick Knowles — connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-knowles)
