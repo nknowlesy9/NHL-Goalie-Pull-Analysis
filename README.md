@@ -144,4 +144,4 @@ seaborn
 
 ## Author
 
-[Your Name] — connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
+Nick Knowles — connect with me on [LinkedIn](www.linkedin.com/in/nicholas-knowles)
