@@ -1,0 +1,26 @@
+RANKED NHL GOALIE PULL STRATEGIES (Highest to Lowest Success Probability),,,,,,,,,,,,,
+Venue,Deficit,PP,Zone,Context,Optimal Pull Time,Success Prob %,Venue,Deficit,PP,Zone,Context,Optimal Pull Time,Success Prob %
+Away,-1,Yes,Off,Action,1m 57s,18.65,Home,-2,Yes,Off,Action,1m 40s,7.17
+Home,-1,Yes,Off,Action,1m 40s,18.45,Away,-2,Yes,Off,Action,1m 39s,6.76
+Away,-1,Yes,Off,Whistle,1m 57s,17.95,Home,-2,Yes,Off,Whistle,1m 40s,5.81
+Away,-1,No,Off,Whistle,1m 57s,17.67,Away,-2,Yes,Off,Whistle,1m 39s,5.78
+Away,-1,No,Off,Action,1m 57s,17.57,Home,-2,Yes,Def,Action,1m 39s,5.42
+Home,-1,Yes,Off,Whistle,2m 7s,16.9,Home,-2,Yes,Neut,Action,1m 39s,5.23
+Home,-1,No,Off,Action,2m 7s,16.62,Away,-2,Yes,Def,Action,1m 25s,5.04
+Home,-1,No,Off,Whistle,2m 7s,15.95,Home,-2,Yes,Def,Whistle,1m 39s,4.89
+Home,-1,Yes,Def,Action,1m 40s,14.55,Away,-2,Yes,Def,Whistle,1m 39s,4.85
+Away,-1,Yes,Def,Action,1m 57s,14.37,Home,-2,Yes,Neut,Whistle,1m 39s,4.77
+Away,-1,Yes,Def,Whistle,1m 57s,14.05,Away,-2,Yes,Neut,Action,1m 39s,4.69
+Home,-1,Yes,Def,Whistle,1m 40s,13.88,Away,-2,Yes,Neut,Whistle,1m 39s,4.51
+Home,-1,Yes,Neut,Action,1m 40s,13.63,Away,-2,No,Off,Action,7m 35s,3.74
+Away,-1,No,Def,Action,2m 14s,13.31,Away,-2,No,Def,Action,7m 33s,3.44
+Away,-1,No,Def,Whistle,2m 39s,13.18,Home,-2,No,Off,Action,8m 1s,3.32
+Home,-1,No,Def,Action,2m 51s,13,Away,-2,No,Neut,Action,7m 33s,3.3
+Away,-1,Yes,Neut,Action,1m 40s,12.96,Home,-2,No,Neut,Action,7m 33s,3.29
+Home,-1,No,Def,Whistle,2m 47s,12.5,Away,-2,No,Off,Whistle,7m 34s,3.29
+Home,-1,No,Neut,Action,2m 51s,12.36,Home,-2,No,Def,Action,8m 1s,3.28
+Home,-1,Yes,Neut,Whistle,1m 40s,12.18,Home,-2,No,Off,Whistle,9m 0s,3.06
+Away,-1,No,Neut,Action,2m 16s,12.01,Away,-2,No,Def,Whistle,6m 38s,2.84
+Away,-1,Yes,Neut,Whistle,2m 39s,11.72,Home,-2,No,Def,Whistle,9m 0s,2.8
+Away,-1,No,Neut,Whistle,2m 39s,10.74,Away,-2,No,Neut,Whistle,6m 38s,2.76
+Home,-1,No,Neut,Whistle,2m 51s,10.73,Home,-2,No,Neut,Whistle,5m 44s,2.73
