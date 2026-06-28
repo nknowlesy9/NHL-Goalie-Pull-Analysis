@@ -1,0 +1,9 @@
+========================================
+OPTIMIZED MODEL OUTPUT (REGULAR SEASON)
+========================================
+Optimal F1 Threshold: 0.1213
+Accuracy:    0.6846
+Sensitivity: 0.7516
+Specificity: 0.6785
+Confusion Matrix: TN=1169, FP=554, FN=39, TP=118
+========================================
