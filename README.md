@@ -6,7 +6,7 @@ Pulling the goalie is one of the most consequential decisions a coach makes in a
 
 ## What This Project Does
 
-I built a machine learning model that predicts the likelihood of a trailing team tying the game after pulling their goalie in the 3rd period. The model is trained on every goalie pull from the 2010–2024 NHL regular seasons, with features capturing game context like time remaining, score deficit, zone, powerplay status, and whether the pull happened during live play or off a faceoff.
+I built a machine learning model that predicts the likelihood of a trailing team tying the game after pulling their goalie in the 3rd period. The model is trained on every goalie pull from the 2010–2024 NHL regular seasons, with features capturing game context like time remaining, score deficit, zone, powerplay status, and whether the pull happened during live play or off a faceoff. (Data Retreived from Hockey-Statistics.com
 
 Beyond the model itself, the project includes an interactive decision auditor where you can input a specific game scenario and see how a coach's actual pull timing compares to what the model recommends — including a full probability curve and a GO/HOLD recommendation.
 
